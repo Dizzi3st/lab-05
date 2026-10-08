@@ -7,11 +7,11 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+- Used as a reference on how to change button colours (https://stackoverflow.com/questions/64376333/background-color-on-button-in-jetpack-compose)
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| Student Name    | CCID      |
+| --------------- | --------- |
+| `Mahamoud Maash`| `maash`   |
+| `Kanis Fatama`  | `kanis`   |
